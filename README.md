@@ -1,2 +1,2 @@
 # SolvLoRA-GPR
-Apply gpt-oss for sloving regression task for predicting chemical compounds properties
+Apply gpt-oss for solving regression tasks predicting chemical compound properties
